@@ -1,0 +1,5 @@
+Make: Toyota
+Model: Corolla
+Year: 2022
+Number of doors: 4
+Type of roof: sunroof
